@@ -1,0 +1,10 @@
+To get this example to run you will need to pip in the 'birdy' package
+and create a conf.cfg file in the same directory. The config file will
+need two sections formatted as so.
+[consumer]
+key = {consumer/api key}
+secret = {sonsumer/api secret}
+
+[access]
+token = {access token}
+secret = {access token secret}

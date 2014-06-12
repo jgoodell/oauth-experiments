@@ -4,9 +4,17 @@ __pycache__/
 
 # Emacs backups
 *~
+.#*
+\#*
 
 # Vagrant meta
 *.vagrant
+
+# nohup files
+nohup.out
+
+# Sensitive configuration data
+conf.cfg
 
 # C extensions
 *.so
